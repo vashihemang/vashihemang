@@ -1,5 +1,30 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Hemang Vashi<br><br>### 🚀 BCA AI Student | Problem Solver<br><br>Welcome to my GitHub! I am a passionate developer from india, currently pursuing my Bachelor of Computer Applications (BCA) with a specialization in Artificial Intelligence. I love building intelligent systems and constantly expanding my knowledge in the AI/ML space.<br><br>### 👨‍💻 What I'm Currently Up To:<br>* 🎓 **Studying:** Exploring the depths of AI, completing 90% of fundamental ML coursework (Supervised & Unsupervised Learning).<br>* 🛠️ **Building:** <br>  * **Medi-Scan:** An OCR-based application using EasyOCR, NLP (spaCy), and a RAG pipeline to extract and analyze data from medicine strips.<br>  * **Personal Portfolio:** Crafting my professional web presence using Flask and Jinja2.<br>* 🔍 **Seeking:** Actively looking for **Internship opportunities** in AI and Machine Learning!<br><br>### 💻 Tech Stack & Tools:<br>* **Languages:** Python<br>* **AI/ML:** Machine Learning Algorithms (Supervised & Unsupervised Learning), NLP (Nltk,spaCy)<br>* **Frameworks & Libraries:** Flask, EasyOCR,Fastapi<br>* **Tools & Concepts:** Jinja2<br><br>### 🌙 Beyond Coding:<br>When I’m not training models or debugging code, you’ll find me creating 2D documentary videos on my social page **https://youtube.com/@pastdocumentry?si=HFa3UXEB2WV6OLij**.<br><br>### 📫 Let's Connect!<br>* 🤝 Open to collaborating on AI projects, hackathons, or just nerding out over Generative AI.<br><br>⭐ *Feel free to explore my repositories below and drop a star if you find something interesting!*
+Hi there! 👋 I'm Hemang Vashi
+
+### 🚀 BCA AI Student | Problem Solver
+
+Welcome to my GitHub! I am a passionate developer from india, currently pursuing my Bachelor of Computer Applications (BCA) with a specialization in Artificial Intelligence. I love building intelligent systems and constantly expanding my knowledge in the AI/ML space.
+
+### 👨‍💻 What I'm Currently Up To:
+* 🎓 Studying: Exploring the depths of AI, completing 90% of fundamental ML coursework (Supervised & Unsupervised Learning).
+* 🛠️ Building: 
+* Medi-Scan: An OCR-based application using EasyOCR, NLP (spaCy), and a RAG pipeline to extract and analyze data from medicine strips.
+* Personal Portfolio: Crafting my professional web presence using Flask and Jinja2.
+* 🔍 Seeking: Actively looking for Internship opportunities in AI and Machine Learning!
+
+### 💻 Tech Stack & Tools:
+* Languages: Python
+* AI/ML: Machine Learning Algorithms (Supervised & Unsupervised Learning), NLP (Nltk,spaCy)
+* Frameworks & Libraries: Flask, EasyOCR,Fastapi
+* Tools & Concepts: Jinja2
+
+### 🌙 Beyond Coding:
+When I’m not training models or debugging code, you’ll find me creating 2D documentary videos on my social page https://youtube.com/@pastdocumentry?si=HFa3UXEB2WV6OLij.
+
+### 📫 Let's Connect!
+* 🤝 Open to collaborating on AI projects, hackathons, or just nerding out over Generative AI.
+
+⭐ Feel free to explore my repositories below and drop a star if you find something interesting!
+
 
 
 ## 🌐 Socials:
