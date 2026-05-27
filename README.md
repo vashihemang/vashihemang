@@ -12,10 +12,10 @@ Welcome to my GitHub! I am a passionate developer from india, currently pursuing
 * 🔍 Seeking: Actively looking for Internship opportunities in AI and Machine Learning!
 
 ### 💻 Tech Stack & Tools:
-* Languages: Python
-* AI/ML: Machine Learning Algorithms (Supervised & Unsupervised Learning), NLP (Nltk,spaCy)
-* Frameworks & Libraries: Flask, EasyOCR,Fastapi
-* Tools & Concepts: Jinja2
+* Languages: Python, JavaScript, C, Java, SQL
+* AI/ML:  Machine Learning Pipeline, EasyOCR, Scikit-learn, TensorFlow, NLP
+* Frameworks & Libraries: HTML5, CSS3, Flask, Jinja2, FastAPI
+* Cloud/Tools: Git, GitHub, Docker 
 
 ### 🌙 Beyond Coding:
 When I’m not training models or debugging code, you’ll find me creating 2D documentary videos on my social page https://youtube.com/@pastdocumentry?si=HFa3UXEB2WV6OLij.
