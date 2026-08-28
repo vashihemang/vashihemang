@@ -4,21 +4,12 @@ Hi there! 👋 I'm Hemang Vashi
 
 Welcome to my GitHub! I am a passionate developer from india, currently pursuing my Bachelor of Computer Applications (BCA) with a specialization in Artificial Intelligence. I love building intelligent systems and constantly expanding my knowledge in the AI/ML space.
 
-### 👨‍💻 What I'm Currently Up To:
-* 🎓 Studying: Exploring the depths of AI, completing 90% of fundamental ML coursework (Supervised & Unsupervised Learning).
-* 🛠️ Building: 
-* Medi-Scan: An OCR-based application using EasyOCR, NLP (spaCy), and a RAG pipeline to extract and analyze data from medicine strips.
-* Personal Portfolio: Crafting my professional web presence using Flask and Jinja2.
-* 🔍 Seeking: Actively looking for Internship opportunities in AI and Machine Learning!
 
 ### 💻 Tech Stack & Tools:
 * Languages: Python, JavaScript, C, Java, SQL
-* AI/ML:  Machine Learning Pipeline, EasyOCR, Scikit-learn, TensorFlow, NLP
-* Frameworks & Libraries: HTML5, CSS3, Flask, Jinja2, FastAPI
-* Cloud/Tools: Git, GitHub, Docker 
-
-### 🌙 Beyond Coding:
-When I’m not training models or debugging code, you’ll find me creating 2D documentary videos on my social page https://youtube.com/@pastdocumentry?si=HFa3UXEB2WV6OLij.
+* AI/ML:  Machine Learning Pipeline, EasyOCR, Scikit-learn, TensorFlow, NLP , langchain
+* Frameworks & Libraries: HTML5, CSS3, Flask, Jinja2, FastAPI, streamlit 
+* Cloud/Tools: Git, GitHub 
 
 ### 📫 Let's Connect!
 * 🤝 Open to collaborating on AI projects, hackathons, or just nerding out over Generative AI.
