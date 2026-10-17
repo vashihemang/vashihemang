@@ -23,10 +23,12 @@ I build practical applications and explore how software and AI can solve real-wo
 
 ## 📫 Let's Connect!
 
-* 🤝 Open to collaborating on AI projects, hackathons, or just nerding out over Generative AI.
+<div align="center">
 
-⭐ Feel free to explore my repositories below and drop a star if you find something interesting!
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vashihemang.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vashihemang@gmail.com)
 
+</div>
 
 
 ## 🌐 Socials:
@@ -41,6 +43,20 @@ I build practical applications and explore how software and AI can solve real-wo
 
 ---
 [![](https://komarev.com/ghpvc/?username=vashihemang&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/vashihemang/vashihemang/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+*Thanks for visiting — explore a project, share feedback, and let's build something useful.*
+
+</div>
 
 
 
