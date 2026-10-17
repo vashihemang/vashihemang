@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b1a,45:312e81,100:0891b2&height=200&section=header&text=HEMANG%20VASHI&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=58&descSize=16&animation=fadeIn" alt="HemangVashi — dark neon blue and purple developer banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&height=55&lines=Building+Practical+Web+Applications;Exploring+AI%2FML+%26+Deep+Learning;Python+%7C+Flask+%7C+JavaScript;Learning+by+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&height=55&lines=Building+Practical+AI+Applications;Exploring+AI%2FML+%26+Deep+Learning;Python+%7C+Flask+%7C+Fastapi;Learning+by+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### Full-Stack Developer · AI/ML Enthusiast · BCA Student
 
