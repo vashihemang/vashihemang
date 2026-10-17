@@ -1,9 +1,18 @@
-Hi there! 👋 I'm Hemang Vashi
+<div align="center">
 
-### 🚀 BCA AI Student | Problem Solver
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b1a,45:312e81,100:0891b2&height=200&section=header&text=HEMANG%20VASHI&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=58&descSize=16&animation=fadeIn" alt="HemangVashi — dark neon blue and purple developer banner" />
 
-Welcome to my GitHub! I am a passionate developer from india, currently pursuing my Bachelor of Computer Applications (BCA) with a specialization in Artificial Intelligence. I love building intelligent systems and constantly expanding my knowledge in the AI/ML space.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&height=55&lines=Building+Practical+Web+Applications;Exploring+AI%2FML+%26+Deep+Learning;Python+%7C+Flask+%7C+JavaScript;Learning+by+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+### Full-Stack Developer · AI/ML Enthusiast · BCA Student
+
+I build practical applications and explore how software and AI can solve real-world problems.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=08111f)](https://vashihemang.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vashihemang@gmail.com)
+
+
+</div>
 
 ### 💻 Tech Stack & Tools:
 * Languages: Python, JavaScript, C, Java, SQL
